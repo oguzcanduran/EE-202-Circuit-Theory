@@ -1,0 +1,18 @@
+Circuit: * C:\Users\Oguz\Desktop\202\LAB-5\LTSPICE\Draft2.asc
+
+
+Date: Wed Apr 27 20:56:42 2022
+Total elapsed time: 0.038 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 0
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 5
+fillins = 1
+solver = Normal
+
